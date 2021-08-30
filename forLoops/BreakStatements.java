@@ -1,0 +1,11 @@
+package forLoops;
+
+import java.util.Scanner;
+
+public class BreakStatements {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+
+    }
+}
